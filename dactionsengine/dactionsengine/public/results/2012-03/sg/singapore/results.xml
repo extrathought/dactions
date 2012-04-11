@@ -1,0 +1,51 @@
+<destraction>
+	<date>2012-03-20</date>
+	<location>
+		<venue>The Pigeonhole</venue>
+		<address>52/53 Duxton Road</address>
+		<city>Singapore</city>
+		<country>SG</country>
+	</location>
+	<challenges>
+		<challenge id="1" type="Phantasise">Design changes to our public spaces that allow animals from the zoo to roam our urban habitat freely. Find a way that makes it possible to let wild animals roam our city safely next to humans (e.g. Orchard Road area). Bonus: Any solution that allows us to get into arm's reach of a real lion.</challenge>
+		<challenge id="2" type="Conceptualise">Design an elegant piece of men's clothing that allows provides warmth in freezing (AC) temperatures and that does not get in the way with hot and humid weather (i.e. does not have to be carried in one's hand or uses lots of space in a bag). Bonus: Style and functionality.</challenge>
+		<challenge id="3" type="Visualise">Design icons that clearly visually represent the concepts of today, yesterday and tomorrow without using any text or letters. Bonus: Icons that work independent of culture.</challenge>
+	</challenges>
+	<winner team="D" />
+	<pictures>https://www.facebook.com/media/set/?set=oa.376111989088608</pictures>
+	<teams>
+		<team id="A">
+			<member><name>Eva Wan</name><mail>eva.wan@possibleworldwide.com</mail></member>
+			<member><name>Jai</name><mail>jdpillaris@gmail.com</mail></member>
+			<member><name>Jaime Bosca</name><mail>jaime.bosca.gomez@gmail.com</mail></member>
+			<member><name>Kat Lalisan</name><mail>gilded.etiquette@gmail.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie@hummingbirldinteractive.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="B">
+			<member><name>Ibrahim Iqbal</name><mail>ibrahim13@gmail.com</mail></member>
+			<member><name>Ketut Sulistyawati</name><mail>ketut.sulistyawati@readingroom.com.sg</mail></member>
+			<member><name>Maria Kuvshinova</name><mail>mariak@evenpanda.com</mail></member>
+			<member><name>Michael Ong</name><mail>michel.ong@iproperty.com</mail></member>
+			<member><name>Nuttakorn Rattanachaisit</name><mail>nuttakorn@me.com</mail></member>
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="C">
+			<member><name>Alek Cannan</name><mail>alek.cannan@newton.circus.com</mail></member>
+			<member><name>Benedikt Glatzl</name><mail>benediktg@evenpanda.com</mail></member>
+			<member><name>Fern Yit</name><mail>fernyit@gmail.com</mail></member>
+			<member><name>Juan Sepulveda</name><mail>juan.sepulveda.sanchis@gmail.com</mail></member>
+			<member><name>Ridhwan Rahim</name><mail>me@duanloves.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="D">
+			<member><name>Roger Zimmermann</name><mail>roger@friendstomankind.org</mail></member>
+			<member><name>Shiawuen</name><mail>shiawuen@gmail.com</mail></member>
+			<member><name>Shaj Widjaja</name><mail>shah_widjaja@yahoo.com</mail></member>
+			<member><name>Wu Jiajin</name><mail>jiajin.wu@continental-corporation.com</mail></member>
+			<member><name>Yew Kwok Chung</name><mail>yew_kwok_chung@ida.gov.sg</mail></member>
+			<challenge id="3" />
+		</team>
+	</teams>
+</destraction>

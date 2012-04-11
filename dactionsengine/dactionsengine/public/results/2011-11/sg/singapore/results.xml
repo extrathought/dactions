@@ -1,0 +1,37 @@
+<destraction>
+	<date>2011-11-15</date>
+	<location>
+		<venue>The Pigeonhole</venue>
+		<address>52/53 Duxton Road</address>
+		<city>Singapore</city>
+		<country>SG</country>
+	</location>
+	<challenges>
+		<challenge id="1" type="Rethink">Design a quick guide for alien visitors to our blue planet. Assume these aliens to be humanoid to some extent.</challenge>
+		<challenge id="2" type="Redesign">Design your zero gravity living or leisure room. Assume that the human approach to life has not changed much despite all innovation.</challenge>
+		<challenge id="3" type="Refine">Design a public teleportation booth. Assume that there is a requirement for a target booth and a certain cost is incurred.</challenge>
+	</challenges>
+	<winner team="C" />
+	<pictures>https://www.facebook.com/media/set/?set=oa.293698737329934</pictures>
+	<teams>
+		<team id="A">
+			<member><name>Chen Zhi Hui Shaun</name><mail>chenshaun@stengg.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>net@tech65.org</mail></member>
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="B">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Louis Karim</name><mail>louiskarim@gmail.com</mail></member>
+			<member><name>Mikhaila Aldaba</name><mail>mikhail a@techsailor.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="C">
+			<member><name>Abhishek Radhakrishnan</name><mail>abhishek@lambdamugames.com</mail></member>
+			<member><name>Amandeep Singh</name><mail>sandhu.aman@gmail.com</mail></member>
+			<member><name>Gao Hui Fang</name><mail>whitefangie@yahoo.com</mail></member>
+			<challenge id="2" />
+		</team>
+	</teams>
+</destraction>

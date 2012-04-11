@@ -1,0 +1,55 @@
+<destraction>
+	<date>2011-06-21</date>
+	<location>
+		<venue>Artery</venue>
+		<address>Red Dot Traffic Building, 28 Maxwell Road</address>
+		<city>Singapore</city>
+		<country>SG</country>
+	</location>
+	<challenges>
+		<challenge id="1">A new wristwatch to support time zones&#x2026;</challenge>
+		<challenge id="2">A feasible way to deal with wet umbrellas in malls without plastic bags&#x2026;</challenge>
+		<challenge id="3">Your perfect bathroom vanity spot set up&#x2026;</challenge>
+		<challenge id="4">A safe and elegant way to leave your laptop at a coffee shop table&#x2026;</challenge>
+		<challenge id="5">A set-up that encourages passengers to move into the public transport instead of clogging the entrance&#x2026;</challenge>
+	</challenges>
+	<pictures>http://www.flickr.com/photos/dactions/sets/72157627023971832/</pictures>
+	<teams>
+		<team id="A">
+			<member><name>Chong Li-Chuan x Grace Sai x Jeff Lim x Kelvin Isaac x Sebastiaan Deckers</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5" />
+		</team>
+		<team id="B">
+			<member><name>Darrel Chua x Gabriel Sai x Vinay M x Zhou Yinsheng (Eason)</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5" />
+		</team>
+		<team id="C">
+			<member><name>Beverly Lin x James Norris x Merete Noer x Sven Berg Ryen</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5" />
+		</team>
+		<team id="D">
+			<member><name>Fiona Craig x Meng Weng Wong x Samuel Chua x Sufen Koh x Vy Thuy Luong</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="E">
+			<member><name>Jason Ong x Sharon Lourdes Paul x Usman Sheikh</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5" />
+		</team>
+		<team id="F">
+			<member><name>Chee Aun Lim x Kiran Joshi x Veronica Ng x Zelig Dhi LEE Bai Hong</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5" />
+		</team>
+		<team id="G">
+			<member><name>Navjot Pawera x Sayanee Basu x Ng Ling Ling x Subhransu Behera</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5" />
+		</team>
+		<team id="H">
+			<member><name>Anh Han x Dawn Toh x Gao Huifang x Morten Fjeld</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5" />
+		</team>
+		<team id="I">
+			<member><name>Chiara Maria de Castro x Mohammed Pitolwala x Shengdong Zhao x Tommaso Piazza</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="2" />
+		</team>
+	</teams>
+</destraction>

@@ -1,0 +1,76 @@
+<destraction>
+	<date>2011-07-19</date>
+	<location>
+		<venue>Artery</venue>
+		<address>Red Dot Traffic building, 28 Maxwell Road</address>
+		<city>Singapore</city>
+		<country>SG</country>
+	</location>
+	<challenges>
+		<challenge id="1" type="Rethink">Design a safe and flexible way for pedestrians to cross a street at any location. Find a balance to give pedestrians higher priority, discourage jaywalking but maintain traffic flow. Bonus points: Feasible solutions.</challenge>
+		<challenge id="2" type="Redesign">Design a unique symbol representing user handles. Twitter and Facebook use @, Google uses +. The &amp; represents "and", the @ is for emails, the © for "copyright" and $, £, € for currencies. Create a symbol that represents a person, a user, a human. Bonus points: Extensible symbol set for networks.</challenge>
+		<challenge id="3" type="Refine">Design your perfect public mall toilet. Improve hygiene, cleanliness and privacy. Bonus points: Resourcefulness.</challenge>
+	</challenges>
+	<winner>F</winner>
+	<pictures>http://www.flickr.com/photos/dactions/sets/72157627328784166/</pictures>
+	<teams>
+		<team id="A">
+			<member><name>Abhay Rautela</name><mail>abhay@pebbleroad.com</mail></member>
+			<member><name>Florian Cornu</name><mail>florian@secretcoos.org</mail></member>
+			<member><name>Lloyd Wong</name></member>
+			<member><name>Rena Ong</name></member>
+			<member><name>Ronnie Tan</name></member>
+			<member><name>Stefan van der Bijl</name><mail>stefan@valdebrain.asia</mail></member>
+			<challenge id="3" />
+		</team>
+		<team id="B">
+			<member><name>Donald Lim</name><mail>donald@savantdegrees.com</mail></member>
+			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
+			<member><name>Gabriel Sal</name></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<member><name>Usman Sheikh</name><mail>usman@identifii.com</mail></member>
+			<challenge id="3" />
+		</team>
+		<team id="C">
+			<member><name>Grace Sai</name><mail>gracesai@gmail.com</mail></member>
+			<member><name>Robin Menck</name><mail>robin.genx@gmail.com</mail></member>
+			<member><name>Omar Banuelos</name><mail>omar.banuelos@hotmail.com</mail></member>
+			<member><name>Ken Ng</name><mail>code_word2@hotmail.com</mail></member>
+			<member><name>Ben Cess</name><mail>street.team@gmail.com</mail></member>
+			<member><name>Pooja Chaudhary</name></member>
+			<challenge id="2" />
+		</team>
+		<team id="D">
+			<member><name>Aggie Jin</name></member>
+			<member><name>Jason Ong</name><mail>velvetpd@gmail.com</mail></member>
+			<member><name>Nicola Lim</name></member>
+			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="3" />
+		</team>
+		<team id="E">
+			<member><name>Desmond Seetoh</name><mail>desmond@orita-sinclair.edu.sg</mail></member>
+			<member><name>Irene Tsjin</name><mail>irenetsjin@gmail.com</mail></member>
+			<member><name>Kiran Joshi</name><mail>kiran@joshi.sg</mail></member>
+			<member><name>Mohammed Xue Jin</name></member>
+			<member><name>Nuttakorn Rattanachaisit</name><mail>nuttakorn.rattanachaisit@possibleworldwide.com</mail></member>
+			<challenge id="3" />
+		</team>
+		<team id="F">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Jaidev Pillarisetti</name><mail>jaidev@netivate.com</mail></member>
+			<member><name>Kan Wee</name><mail>t@kw.sg</mail></member>
+			<member><name>Rheza Evans</name></member>
+			<member><name>Subhransu Behera</name><mail>subh@subhb.org</mail></member>
+			<member><name>Shah Widjaja</name></member>
+			<challenge id="3" />
+		</team>
+		<team id="G">
+			<member><name>Chiara Maria de Castro</name><mail>chiara@spudniks.net</mail></member>
+			<member><name>Manmitha</name></member>
+			<member><name>Nasos Kouroupis</name><mail>type.nasos@gmail.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<challenge id="3" />
+		</team>
+	</teams>
+</destraction>

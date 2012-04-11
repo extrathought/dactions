@@ -1,0 +1,57 @@
+<destraction>
+	<date>2011-08-16</date>
+	<location>
+		<venue>Artery</venue>
+		<address>Red Dot Traffic building, 28 Maxwell Road</address>
+		<city>Singapore</city>
+		<country>SG</country>
+	</location>
+	<challenges>
+		<challenge id="1" type="Rethink">A game-like activity that uses smartphones as a gaming object, not a gaming platform. Bonus: Playing with strangers; slight risk of damage/loss of one's device (for the thrill).</challenge>
+		<challenge id="2" type="Redesign">A public trash bin that doubles as a feeding post for another animal species. Bonus: Solutions that don't make a mess of the surroundings or create a biohazard.</challenge>
+		<challenge id="3" type="Refine">A simpler and less resource-wasting registration process for DestrActions. Bonus: Flexibility of walk-in and registration support.</challenge>
+	</challenges>
+	<winner team="C" />
+	<pictures>http://www.flickr.com/photos/dactions/sets/72157627490917116/</pictures>
+	<teams>
+		<team id="A">
+			<member><name>Richard Korff</name><mail>richard@tedxsingapore.sg</mail></member>
+			<member><name>Asher Devang</name><mail>asher.devang@clean-mobility.com.sg</mail></member>
+			<member><name>Florian Cornu</name><mail>florian@secretcooks.org</mail></member>
+			<member><name>Shah Widjaja</name><mail>shah_widjaja@yahoo.com</mail></member>
+			<member><name>Sue Ann Chia</name><mail>swen.chia@gmail.com</mail></member>
+			<challenge id="2" />
+		</team>
+		<team id="B">
+			<member><name>Eric Ceret</name><mail>eric@elitemodels.sg</mail></member>
+			<member><name>Jose Sepulveda</name><mail>ilojrss@nus.edu.sg</mail></member>
+			<member><name>Dorothy Yap</name><mail>dotyyap@gmail.com</mail></member>
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<challenge id="2" />
+		</team>
+		<team id="C">
+			<member><name>Gurpal Singh Kalra</name><mail>gurpalsinghkalra@gmail.com</mail></member>
+			<member><name>Bjorn Lee</name><mail>bjorn@appyzoo.com</mail></member>
+			<member><name>Harshal Desai</name><mail>hersheydesai@gmail.com</mail></member>
+			<member><name>Hari Haran</name><mail>hari@catena-technologies.com</mail></member>
+			<member><name>Bernise Ang</name><mail>bernise@syinc.org</mail></member>
+			<challenge id="2" />
+		</team>
+		<team id="D">
+			<member><name>Jones Yay</name><mail>jones.tay@possibleworlwide.com</mail></member>
+			<member><name>Michelle Wong</name><mail>m@smallengineerings.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<member><name>Irene Lim</name></member>
+			<member><name>Amandeep Singh Sandhu</name><mail>sandhu.aman@gmail.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="E">
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
+			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Mohammed Pitolwala</name><mail>mohammedsp.me@gmail.com</mail></member>
+			<challenge id="1" />
+		</team>
+	</teams>
+</destraction>

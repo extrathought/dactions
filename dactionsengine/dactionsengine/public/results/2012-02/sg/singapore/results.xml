@@ -1,0 +1,63 @@
+<destraction>
+	<date>2012-02-21</date>
+	<location>
+		<venue>The Pigeonhole</venue>
+		<address>52/53 Duxton Road</address>
+		<city>Singapore</city>
+		<country>SG</country>
+	</location>
+	<challenges>
+		<challenge id="1" type="Rethink">Design a passport for a globalised world. The passports we use are from the last century and a physical world connected by land and sea. Create an object of identification that avoids the drawbacks of the well-know booklet. Bonus: Allow the owners the joy of collecting immigration stamps.</challenge>
+		<challenge id="2" type="Redesign">Design your ideal café interior. Cafés serve different purposes such as relaxing, reading, socialising, working or thinking. What layout, furniture, services, etc. makes your ideal café? Bonus: While versatility is key, define one clear purpose for your café and design for that.</challenge>
+		<challenge id="3" type="Refine">Design the ideal online service sign-up process. We sign up to new services almost every day from browsers and apps in computers, phones, tablets and more... What's easiest process for users to sign up while avoiding problems such as spam, identity theft or lost passwords? Bonus: Allow finding friends and connecting to them easy.</challenge>
+	</challenges>
+	<winner team="F" />
+	<teams>
+		<team id="A">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>ntt@tech65.org</mail></member>
+			<member><name>Danny Cochran</name><mail>daniel@cochrans.org</mail></member>
+			<member><name>Gao Hui Fang</name><mail>gao.huifang@dhs.sg</mail></member>
+			<member><name>Jai</name><mail>jdpillaris@gmail.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="B">
+			<member><name>Ibrahim</name><mail>ibrahim13@gmail.com</mail></member>
+			<member><name>Ivan Vanzaj</name><twitter>@vanzaj</twitter></member>
+			<member><name>Kat Lalisan</name><mail>gilded.etiquette@gmail.com</mail></member>
+			<member><name>Philipp Weidhofer</name><mail>philipp.weidhofer@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="C">
+			<member><name>Amandeep Singh</name><mail>aman.singh@xm-asia.com</mail></member>
+			<member><name>Preetam Rai</name><mail>preetamrai@np.edu.sg</mail></member>
+			<member><name>Yi Sung Yong</name><twitter>@yisungyong</twitter></member>
+			<member><name>Victoria Koo</name><mail>victoria.vic.koo@gmail.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="D">
+			<member><name>Cameron Priest</name><mail>cameron@ontheroadapp.com</mail></member>
+			<member><name>Illum Khan</name><mail>illumkhan@singtel.com</mail></member>
+			<member><name>Sha Liang</name><mail>shalinag@ochrepictures.com</mail></member>
+			<member><name>Vicky Chang</name><mail>vicky@at3s.com.sg</mail></member>
+			<member><name>Winny</name><mail>wmyatster@gmail.com</mail></member>
+			<challenge id="1" />
+		</team>
+		<team id="E">
+			<member><name>Aditya KG</name><mail>aditya.kristanto@gmail.com</mail></member>
+			<member><name>Andy Poen Wu</name><mail>andy-poen.wu@draeger.com</mail></member>
+			<member><name>Gabriel Sai</name><mail>gabsch@singtel.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="2" />
+		</team>
+		<team id="F">
+			<member><name>Alex Cheong</name><mail>alley.emaginary@gmail.com</mail></member>
+			<member><name>Farkhan Salleh</name><mail>i.am@farkhansalleh.info</mail></member>
+			<member><name>Liyana Sulaiman</name><mail>liyana.slmn@gmail.com</mail></member>
+			<member><name>Raven Lim</name><mail>neon.reflections@gmail.com</mail></member>
+			<challenge id="2" />
+		</team>
+	</teams>
+</destraction>

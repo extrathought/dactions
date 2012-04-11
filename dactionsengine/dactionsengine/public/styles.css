@@ -1,0 +1,149 @@
+/*
+black: #0d0d0d
+white: #f2f2f2
+offwhite: #e8ddcb (Terra Terra)
+
+yellow: #cc8800 (Tooth Decay)
+
+greenish: #036564 (Acqua)
+dark greenish: #033649 (Acqua Profonda)
+blue: #031634 (Abisso)
+*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	outline: 0;
+	vertical-align: baseline;
+	background: transparent;
+	content: none;}
+html, body, div, span, applet, object, iframe, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	font-size: 1em;
+	padding: 0;
+	border: 0;
+	margin: 0;}
+ul{list-style: none;}	
+
+body{
+	background: url('bg.png') #f2f2f2 repeat;
+	color: #0d0d0d;
+	font-family: "Cantarell", "Tahoma", "Helvetica Neue", Helvetica, Arial, sans-serif;}
+html.hasFontSmoothing-true body{
+	font-family: Tahoma, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+h1, h2, ol {
+	font-family: "Arvo", "Palatino Bold", Georgia, serif;}
+html.hasFontSmoothing-true h1{
+	font-family: "Palatino Bold", Georgia, serif;}
+h1 {
+	font-size: 5em;
+	margin: 0;}
+h1, h2, ol, img.result, #challenge .note { /*to align without left element*/
+	margin-left: 150px;}
+h3 {
+	font-size: 1em;
+	width: 140px;
+	text-align: right;
+	opacity: 0.3;
+	margin: 0.8em 10px 0 0;}
+h4 {
+	padding-top: 0.8em;
+	font-size: 1em;
+	margin: 0;}
+h6 {
+	font-size: 0.8em;
+	margin: -1.5em 0 2em 150px;}
+p, table {
+	margin: 0.8em 0;}
+dt {
+	margin: 0.8em 0 0;}
+dd {
+	margin-bottom: 0.8em;}
+em {
+	font-style: normal;
+	text-decoration: underline;}
+a {	
+	color: #cc8800;
+	text-decoration: none;}
+a:hover {
+	color: #036564;}
+dt{	
+	font-weight: bold;}
+th {
+	text-align: left;
+	vertical-align: top;
+	white-space: nowrap;
+	padding-right: 1em;}
+td {
+	vertical-align: top;}
+
+/* STRUCTURE */
+
+.contents_wrapper {
+	width: 920px;
+	margin: 0 auto;}
+#contents_box{
+	width: 920px;
+	float: left;
+}
+.contents {
+	width: 670px;
+	float: left;}
+.right {
+	width: 180px;
+	margin-left: 70px;
+	float: left;}
+#banner, .team {
+	width: 100%;
+	margin: 0;
+	background-color: #033649;
+	color: #f2f2f2;
+	text-shadow: #0d0d0d 1px 1px 2px;
+	float: left;
+	margin: 1em 0;}
+#banner {
+	padding: 1.5em 0;}
+#banner h3, #banner p {
+	margin-top: 0.2em;}
+.team {
+	padding-bottom: 0.5em;}
+.team h2, .team p {
+	margin-bottom: 0.2em;}
+.team h3, .team p {
+	margin-top: 0;}
+h3, p, table, dl {
+	float: left;}
+.centre_col, p, table, dl {	
+	width: 520px;}
+#faq {
+	margin-top: 1em;}
+#faq_text {
+	display: none;}			
+.note {
+	font-style: italic;
+	color: #8C8C8C;
+	font-size: 0.8em;}
+#footer {
+	margin-top: 4em;
+	border-top: 1px #8C8C8C solid;
+	float:left;
+	width: 100%;}
+#footer p {
+	margin-left: 150px;}
+p.separator {
+	width:100%;
+	text-align: center;
+	color: #8C8C8C;
+	font-size: 0.8em;}
+#challenge p, #challenge h3 {
+	margin-top: 0;}
+#challenge p {
+	margin-bottom: 0.2em;}
+#challenge p.note {
+	margin-top: 0.4em;}
+img.result {
+	width: 100%;
+	border: 1px solid #033649;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	box-shadow: 0px 0px 5px #031634;
+	-moz-box-shadow: 0px 0px 5px #031634;
+	-webkit-box-shadow: 0px 0px 5px #031634;}
