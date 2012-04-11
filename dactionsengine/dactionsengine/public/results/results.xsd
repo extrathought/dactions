@@ -1,0 +1,85 @@
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:lang="EN">
+
+    <xs:element name="destraction">
+        <xs:complexType>
+            <xs:all>
+                <xs:element type="xs:date" name="date" maxOccurs="1" minOccurs="1"/>
+                <xs:element name="location" maxOccurs="1" minOccurs="1">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element type="xs:string" name="venue" maxOccurs="1" minOccurs="1"/>
+                            <xs:element type="xs:string" name="address" maxOccurs="1" minOccurs="1"/>
+                            <xs:element type="xs:string" name="city" maxOccurs="1" minOccurs="1"/>
+                            <xs:element name="country" maxOccurs="1" minOccurs="1">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="[A-Z][A-Z]"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="challenges" maxOccurs="1" minOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="challengeType" name="challenge" maxOccurs="5" minOccurs="1"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element type="xs:string" name="winner" maxOccurs="1" minOccurs="1"/>
+                <xs:element type="xs:string" name="pictures" maxOccurs="1" minOccurs="1"/>
+                <xs:element name="teams" maxOccurs="1" minOccurs="1">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="team" minOccurs="1">
+                                <xs:complexType>
+                                    <xs:all>
+                                        <xs:element name="member" minOccurs="1">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element type="xs:string" name="name"/>
+                                                    <xs:choice>
+                                                        <xs:element type="xs:string" name="mail"/>
+                                                        <xs:element type="xs:string" name="twitter"/>
+                                                    </xs:choice>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element type="challengeType" name="challenge"/>
+                                    </xs:all>
+                                    <xs:attribute name="id" use="required" >
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:pattern value="[A-Z]"/>
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:attribute>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:complexType name="challengeType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="id" use="required">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:int">
+                            <xs:minInclusive value="1"/>
+                            <xs:maxInclusive value="5"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:attribute>
+                <xs:attribute type="xs:string" name="type" use="optional"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+
+</xs:schema>
