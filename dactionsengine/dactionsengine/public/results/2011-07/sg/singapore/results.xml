@@ -14,63 +14,63 @@
 	<winner>F</winner>
 	<pictures>http://www.flickr.com/photos/dactions/sets/72157627328784166/</pictures>
 	<teams>
-		<team id="A">
+		<team id="A" challenge="3">
 			<member><name>Abhay Rautela</name><mail>abhay@pebbleroad.com</mail></member>
 			<member><name>Florian Cornu</name><mail>florian@secretcoos.org</mail></member>
-			<member><name>Lloyd Wong</name></member>
-			<member><name>Rena Ong</name></member>
-			<member><name>Ronnie Tan</name></member>
+			<member><name>Lloyd Wong</name><mail/></member>
+			<member><name>Rena Ong</name><mail/></member>
+			<member><name>Ronnie Tan</name><mail/></member>
 			<member><name>Stefan van der Bijl</name><mail>stefan@valdebrain.asia</mail></member>
-			<challenge id="3" />
+			<pages>1</pages>
 		</team>
-		<team id="B">
+		<team id="B" challenge="3">
 			<member><name>Donald Lim</name><mail>donald@savantdegrees.com</mail></member>
 			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
-			<member><name>Gabriel Sal</name></member>
+			<member><name>Gabriel Sal</name><mail/></member>
 			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
 			<member><name>Usman Sheikh</name><mail>usman@identifii.com</mail></member>
-			<challenge id="3" />
+			<pages>1</pages>
 		</team>
-		<team id="C">
+		<team id="C" challenge="2">
 			<member><name>Grace Sai</name><mail>gracesai@gmail.com</mail></member>
 			<member><name>Robin Menck</name><mail>robin.genx@gmail.com</mail></member>
 			<member><name>Omar Banuelos</name><mail>omar.banuelos@hotmail.com</mail></member>
 			<member><name>Ken Ng</name><mail>code_word2@hotmail.com</mail></member>
 			<member><name>Ben Cess</name><mail>street.team@gmail.com</mail></member>
-			<member><name>Pooja Chaudhary</name></member>
-			<challenge id="2" />
+			<member><name>Pooja Chaudhary</name><mail/></member>
+			<pages>1</pages>
 		</team>
-		<team id="D">
-			<member><name>Aggie Jin</name></member>
+		<team id="D" challenge="3">
+			<member><name>Aggie Jin</name><mail/></member>
 			<member><name>Jason Ong</name><mail>velvetpd@gmail.com</mail></member>
-			<member><name>Nicola Lim</name></member>
+			<member><name>Nicola Lim</name><mail/></member>
 			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
 			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
-			<challenge id="3" />
+			<pages>2</pages>
 		</team>
-		<team id="E">
+		<team id="E" challenge="3">
 			<member><name>Desmond Seetoh</name><mail>desmond@orita-sinclair.edu.sg</mail></member>
 			<member><name>Irene Tsjin</name><mail>irenetsjin@gmail.com</mail></member>
 			<member><name>Kiran Joshi</name><mail>kiran@joshi.sg</mail></member>
-			<member><name>Mohammed Xue Jin</name></member>
+			<member><name>Mohammed Xue Jin</name><mail/></member>
 			<member><name>Nuttakorn Rattanachaisit</name><mail>nuttakorn.rattanachaisit@possibleworldwide.com</mail></member>
-			<challenge id="3" />
+			<pages>3</pages>
 		</team>
-		<team id="F">
+		<team id="F" challenge="3">
 			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
 			<member><name>Jaidev Pillarisetti</name><mail>jaidev@netivate.com</mail></member>
 			<member><name>Kan Wee</name><mail>t@kw.sg</mail></member>
-			<member><name>Rheza Evans</name></member>
+			<member><name>Rheza Evans</name><mail/></member>
 			<member><name>Subhransu Behera</name><mail>subh@subhb.org</mail></member>
-			<member><name>Shah Widjaja</name></member>
-			<challenge id="3" />
+			<member><name>Shah Widjaja</name><mail/></member>
+			<pages>2</pages>
 		</team>
-		<team id="G">
+		<team id="G" challenge="3">
 			<member><name>Chiara Maria de Castro</name><mail>chiara@spudniks.net</mail></member>
-			<member><name>Manmitha</name></member>
+			<member><name>Manmitha</name><mail/></member>
 			<member><name>Nasos Kouroupis</name><mail>type.nasos@gmail.com</mail></member>
 			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
-			<challenge id="3" />
+			<pages>1</pages>
 		</team>
 	</teams>
 </destraction>

@@ -11,38 +11,37 @@
 		<challenge id="2" type="Conceptualise">Christmas is probably the most resource-intensive celebration of modern humanity: gifts, gift-wrappings, Christmas trees, decorations and their electricity use, travelling home to see family, etc. Design a resourceful once-a-year holiday tradition representing the values of love, peace and unity. Bonus for transgressing creed and culture.</challenge>
 		<challenge id="3" type="Remix">"The straight line leads to the downfall of humanity." — Friedensreich Hundertwasser. Envision non-structural modifications that anybody can make to our public concrete environment to make it more humane, natural and alive. Bonus for implementable and legal modifications.</challenge>
 	</challenges>
-	<winner team="E" />
+	<winner>E</winner>
 	<pictures>https://plus.google.com/photos/109626465941792614807/albums/56896029947411572814</pictures>
 	<teams>
-		<team id="A">
-			<challenge id="3" />
+		<team id="A" challenge="3">
 			<member><name>Sami Kizilbash</name><mail>sami@figr.com</mail></member>
 			<member><name>Prashant Kumar</name><mail>prashant.kumar@iproperty.com</mail></member>
 			<member><name>Arief Aziz</name><mail>arief@tedxjkt.org</mail></member>
 			<member><name>Michael Ong</name><mail>michael.ong@iproperty.com</mail></member>
 			<member><name>Grace Sai</name><mail>gracesai@gmail.com</mail></member>
 			<member><name>Zuhairah Ariff</name><mail>zuhairah.a@gmail.com</mail></member>
+			<pages>3</pages>
 		</team>
-		<team id="B">
-			<challenge id="3" />
+		<team id="B" challenge="3">
 			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
 			<member><name>Elly Lisa</name><mail>ellylisaconnect@gmail.com</mail></member>
 			<member><name>Rishab Malik</name><mail>rishab@figr.com</mail></member>
 			<member><name>Shah Widjaja</name><mail></mail></member>
 			<member><name>Ling Ling</name><mail>linglingn@yahoo.com</mail></member>
 			<member><name>John Tan</name><mail>johntan@orita-sinclair.edu.sg</mail></member>
+			<pages>2</pages>
 		</team>
-		<team id="C">
-			<challenge id="2" />
+		<team id="C" challenge="2">
 			<member><name>Ng Yeen Chern</name><mail>yowl75@yahoo.com</mail></member>
 			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
 			<member><name>Sian Ng</name><mail>sansian@gmail.com</mail></member>
 			<member><name>Alex</name><mail>altey.emaginary@gmail.com</mail></member>
 			<member><name>Mark de Winne</name><mail>mark@relayroom.com</mail></member>
 			<member><name>Lim Kian Yong</name><mail></mail></member>
+			<pages>1</pages>
 		</team>
-		<team id="D">
-			<challenge id="2" />
+		<team id="D" challenge="2">
 			<member><name>Haradur Mar Unnarson</name><mail>info@h-unnarsson.com</mail></member>
 			<member><name>Micah Sulit</name><mail>micah.sulit@yahoo.com</mail></member>
 			<member><name>Jessie Chew</name><mail>jessie@orita-sinclair.edu.sg</mail></member>
@@ -51,23 +50,24 @@
 			<member><name>Ben Cess</name><mail>bentheman@gmail.com</mail></member>
 			<member><name>Andy</name><mail>andykan90@gmail.com</mail></member>
 			<member><name>Kiki</name><mail>kaeting@live.com</mail></member>
+			<pages>1</pages>
 		</team>
-		<team id="E">
-			<challenge id="3" />
+		<team id="E" challenge="3">
 			<member><name>Jeffrey Tjendra</name><mail>s101251@sp.edu.sg</mail></member>
 			<member><name>K</name><mail>bluewasd@gmail.com</mail></member>
 			<member><name>May Chua</name><mail>may@relayroom.com</mail></member>
 			<member><name>Wu Jiajin</name><mail>jiajin@hp.com</mail></member>
 			<member><name>Ketut Sulistyawati</name><mail>tyawati@gmail.com</mail></member>
 			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+			<pages>2</pages>
 		</team>
-		<team id="F">
-			<challenge id="3" />
+		<team id="F" challenge="3">
 			<member><name>Jeremy Barribeau</name><mail>barribeau@hp.com</mail></member>
 			<member><name>Samantha Lim</name><mail>samrr.lim@gmail.com</mail></member>
 			<member><name>Shawn Toh</name><mail>toh.cks@live.com</mail></member>
 			<member><name>Lai Pek Hia</name><mail>lai_pek_hia@rp.sg</mail></member>
 			<member><name>Arul Prasad</name><mail>arul@playmoolah.com</mail></member>
+			<pages>2</pages>
 		</team>
 	</teams>
 </destraction>

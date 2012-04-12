@@ -5230,3 +5230,1185 @@ serving on http://127.0.0.1:5000
 			<member><name>Yew Kwok Chung</name><mail>yew_kwok_chung@ida.gov.sg</mail></member>
 			<challenge id="3"/>
 		</team>
+Debug at: http://127.0.0.1:5000/_debug/view/1334147931
+Starting server in PID 46953.
+serving on http://127.0.0.1:5000
+Debug at: http://127.0.0.1:5000/_debug/view/1334155269
+Debug at: http://127.0.0.1:5000/_debug/view/1334155270
+Debug at: http://127.0.0.1:5000/_debug/view/1334155271
+Debug at: http://127.0.0.1:5000/_debug/view/1334155272
+Starting server in PID 46989.
+serving on http://127.0.0.1:5000
+<team id="A">
+			<member><name>Chong Li-Chuan x Grace Sai x Jeff Lim x Kelvin Isaac x Sebastiaan Deckers</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="B">
+			<member><name>Darrel Chua x Gabriel Sai x Vinay M x Zhou Yinsheng (Eason)</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="C">
+			<member><name>Beverly Lin x James Norris x Merete Noer x Sven Berg Ryen</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="D">
+			<member><name>Fiona Craig x Meng Weng Wong x Samuel Chua x Sufen Koh x Vy Thuy Luong</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Jason Ong x Sharon Lourdes Paul x Usman Sheikh</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="F">
+			<member><name>Chee Aun Lim x Kiran Joshi x Veronica Ng x Zelig Dhi LEE Bai Hong</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="G">
+			<member><name>Navjot Pawera x Sayanee Basu x Ng Ling Ling x Subhransu Behera</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="H">
+			<member><name>Anh Han x Dawn Toh x Gao Huifang x Morten Fjeld</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="I">
+			<member><name>Chiara Maria de Castro x Mohammed Pitolwala x Shengdong Zhao x Tommaso Piazza</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<member><name>Abhay Rautela</name><mail>abhay@pebbleroad.com</mail></member>
+			<member><name>Florian Cornu</name><mail>florian@secretcoos.org</mail></member>
+			<member><name>Lloyd Wong</name></member>
+			<member><name>Rena Ong</name></member>
+			<member><name>Ronnie Tan</name></member>
+			<member><name>Stefan van der Bijl</name><mail>stefan@valdebrain.asia</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="B">
+			<member><name>Donald Lim</name><mail>donald@savantdegrees.com</mail></member>
+			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
+			<member><name>Gabriel Sal</name></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<member><name>Usman Sheikh</name><mail>usman@identifii.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="C">
+			<member><name>Grace Sai</name><mail>gracesai@gmail.com</mail></member>
+			<member><name>Robin Menck</name><mail>robin.genx@gmail.com</mail></member>
+			<member><name>Omar Banuelos</name><mail>omar.banuelos@hotmail.com</mail></member>
+			<member><name>Ken Ng</name><mail>code_word2@hotmail.com</mail></member>
+			<member><name>Ben Cess</name><mail>street.team@gmail.com</mail></member>
+			<member><name>Pooja Chaudhary</name></member>
+			<challenge id="2"/>
+		</team>
+<team id="D">
+			<member><name>Aggie Jin</name></member>
+			<member><name>Jason Ong</name><mail>velvetpd@gmail.com</mail></member>
+			<member><name>Nicola Lim</name></member>
+			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="E">
+			<member><name>Desmond Seetoh</name><mail>desmond@orita-sinclair.edu.sg</mail></member>
+			<member><name>Irene Tsjin</name><mail>irenetsjin@gmail.com</mail></member>
+			<member><name>Kiran Joshi</name><mail>kiran@joshi.sg</mail></member>
+			<member><name>Mohammed Xue Jin</name></member>
+			<member><name>Nuttakorn Rattanachaisit</name><mail>nuttakorn.rattanachaisit@possibleworldwide.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="F">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Jaidev Pillarisetti</name><mail>jaidev@netivate.com</mail></member>
+			<member><name>Kan Wee</name><mail>t@kw.sg</mail></member>
+			<member><name>Rheza Evans</name></member>
+			<member><name>Subhransu Behera</name><mail>subh@subhb.org</mail></member>
+			<member><name>Shah Widjaja</name></member>
+			<challenge id="3"/>
+		</team>
+<team id="G">
+			<member><name>Chiara Maria de Castro</name><mail>chiara@spudniks.net</mail></member>
+			<member><name>Manmitha</name></member>
+			<member><name>Nasos Kouroupis</name><mail>type.nasos@gmail.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="A">
+			<member><name>Richard Korff</name><mail>richard@tedxsingapore.sg</mail></member>
+			<member><name>Asher Devang</name><mail>asher.devang@clean-mobility.com.sg</mail></member>
+			<member><name>Florian Cornu</name><mail>florian@secretcooks.org</mail></member>
+			<member><name>Shah Widjaja</name><mail>shah_widjaja@yahoo.com</mail></member>
+			<member><name>Sue Ann Chia</name><mail>swen.chia@gmail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="B">
+			<member><name>Eric Ceret</name><mail>eric@elitemodels.sg</mail></member>
+			<member><name>Jose Sepulveda</name><mail>ilojrss@nus.edu.sg</mail></member>
+			<member><name>Dorothy Yap</name><mail>dotyyap@gmail.com</mail></member>
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="C">
+			<member><name>Gurpal Singh Kalra</name><mail>gurpalsinghkalra@gmail.com</mail></member>
+			<member><name>Bjorn Lee</name><mail>bjorn@appyzoo.com</mail></member>
+			<member><name>Harshal Desai</name><mail>hersheydesai@gmail.com</mail></member>
+			<member><name>Hari Haran</name><mail>hari@catena-technologies.com</mail></member>
+			<member><name>Bernise Ang</name><mail>bernise@syinc.org</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="D">
+			<member><name>Jones Yay</name><mail>jones.tay@possibleworlwide.com</mail></member>
+			<member><name>Michelle Wong</name><mail>m@smallengineerings.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<member><name>Irene Lim</name></member>
+			<member><name>Amandeep Singh Sandhu</name><mail>sandhu.aman@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
+			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Mohammed Pitolwala</name><mail>mohammedsp.me@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="A">
+			<member><name>Gao Huifang</name><mail>whitefangie@yahoo.com</mail></member>
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Dimitris Kapagioridis</name><mail>dkiearth@hotmail.com</mail></member>
+			<member><name>Pierre Wooldridge</name><mail/></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Aakriti Agarwal</name><mail>agarwal.aakriti@gmail.com</mail></member>
+			<member><name>Erin Frey</name><mail>erin.m.frey@gmail.com</mail></member>
+			<member><name>Meng Weng Wong</name><twitter>@mengwong</twitter></member>
+			<member><name>Wolfgang Maehr</name><mail>wm@njyo.net</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chiara Maria de Castro</name><mail>chiara@spudniks.net</mail></member>
+			<member><name>Thomas Gorissen</name><mail>thomas@adzcentral.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Navjot Pawera</name><mail>nav@extrathought.com</mail></member>
+			<member><name>Sayanee Basu</name><mail>sayanee@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="A">
+			<member><name>Alan Tan</name><mail>slamtoyjam@yahoo.com</mail></member>
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Roberto Mateu</name><mail>rmateu@me.com</mail></member>
+			<member><name>Sayanee Basu</name><mail>sayanee@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="B">
+			<member><name>Aggie Jin</name><mail>aggiejhf@gmail.com</mail></member>
+			<member><name>Amandeep Singh</name><mail>sandhu.aman@gmail.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>ntt@tech65.org</mail></member>
+			<member><name>Mark de Winne</name><mail>mark@relayroom.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Fiona Craig</name><mail>fjc@eitzen-chemical.com</mail></member>
+			<member><name>Pia Andreewitch</name><mail>pia.andreewitch@internationalsos.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>GK Ang</name><mail>silver_agk@hotmail.com</mail></member>
+			<member><name>Ilyana Saat</name><mail>ilyana@hummingbird.com</mail></member>
+			<member><name>Michael Ong</name><mail>michael.ong@iproperty.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie.marinho@gmail.com</mail></member>
+			<member><name>Nono Umasy</name><mail>nonoumasy@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Chaarulatha Dharmaraj</name><mail>chaarud@gmail.com</mail></member>
+			<member><name>Eric Tan</name><mail>ericon85@yahoo.com</mail></member>
+			<member><name>Lynn Lee</name><mail>lynn.lee@watatawa.asia</mail></member>
+			<member><name>Ming Hui</name><mail>minghui@gamemaki.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="F">
+			<member><name>Dan Walton</name><mail>dan@retronyms.com</mail></member>
+			<member><name>Johnson Goh</name><mail>johnson@cellkast.com</mail></member>
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Meng Weng Wong</name><mail>mengwong@gmail.com</mail></member>
+			<member><name>Navjot Pawera</name><mail>nav@extrathought.com</mail></member>
+		</team>
+<team id="A">
+			<member><name>Chen Zhi Hui Shaun</name><mail>chenshaun@stengg.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>net@tech65.org</mail></member>
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Louis Karim</name><mail>louiskarim@gmail.com</mail></member>
+			<member><name>Mikhaila Aldaba</name><mail>mikhail a@techsailor.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Abhishek Radhakrishnan</name><mail>abhishek@lambdamugames.com</mail></member>
+			<member><name>Amandeep Singh</name><mail>sandhu.aman@gmail.com</mail></member>
+			<member><name>Gao Hui Fang</name><mail>whitefangie@yahoo.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<challenge id="3"/>
+			<member><name>Sami Kizilbash</name><mail>sami@figr.com</mail></member>
+			<member><name>Prashant Kumar</name><mail>prashant.kumar@iproperty.com</mail></member>
+			<member><name>Arief Aziz</name><mail>arief@tedxjkt.org</mail></member>
+			<member><name>Michael Ong</name><mail>michael.ong@iproperty.com</mail></member>
+			<member><name>Grace Sai</name><mail>gracesai@gmail.com</mail></member>
+			<member><name>Zuhairah Ariff</name><mail>zuhairah.a@gmail.com</mail></member>
+		</team>
+<team id="B">
+			<challenge id="3"/>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<member><name>Elly Lisa</name><mail>ellylisaconnect@gmail.com</mail></member>
+			<member><name>Rishab Malik</name><mail>rishab@figr.com</mail></member>
+			<member><name>Shah Widjaja</name><mail/></member>
+			<member><name>Ling Ling</name><mail>linglingn@yahoo.com</mail></member>
+			<member><name>John Tan</name><mail>johntan@orita-sinclair.edu.sg</mail></member>
+		</team>
+<team id="C">
+			<challenge id="2"/>
+			<member><name>Ng Yeen Chern</name><mail>yowl75@yahoo.com</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Sian Ng</name><mail>sansian@gmail.com</mail></member>
+			<member><name>Alex</name><mail>altey.emaginary@gmail.com</mail></member>
+			<member><name>Mark de Winne</name><mail>mark@relayroom.com</mail></member>
+			<member><name>Lim Kian Yong</name><mail/></member>
+		</team>
+<team id="D">
+			<challenge id="2"/>
+			<member><name>Haradur Mar Unnarson</name><mail>info@h-unnarsson.com</mail></member>
+			<member><name>Micah Sulit</name><mail>micah.sulit@yahoo.com</mail></member>
+			<member><name>Jessie Chew</name><mail>jessie@orita-sinclair.edu.sg</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>net@tech65.org</mail></member>
+			<member><name>Poi Hierro</name><mail/></member>
+			<member><name>Ben Cess</name><mail>bentheman@gmail.com</mail></member>
+			<member><name>Andy</name><mail>andykan90@gmail.com</mail></member>
+			<member><name>Kiki</name><mail>kaeting@live.com</mail></member>
+		</team>
+<team id="E">
+			<challenge id="3"/>
+			<member><name>Jeffrey Tjendra</name><mail>s101251@sp.edu.sg</mail></member>
+			<member><name>K</name><mail>bluewasd@gmail.com</mail></member>
+			<member><name>May Chua</name><mail>may@relayroom.com</mail></member>
+			<member><name>Wu Jiajin</name><mail>jiajin@hp.com</mail></member>
+			<member><name>Ketut Sulistyawati</name><mail>tyawati@gmail.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+		</team>
+<team id="F">
+			<challenge id="3"/>
+			<member><name>Jeremy Barribeau</name><mail>barribeau@hp.com</mail></member>
+			<member><name>Samantha Lim</name><mail>samrr.lim@gmail.com</mail></member>
+			<member><name>Shawn Toh</name><mail>toh.cks@live.com</mail></member>
+			<member><name>Lai Pek Hia</name><mail>lai_pek_hia@rp.sg</mail></member>
+			<member><name>Arul Prasad</name><mail>arul@playmoolah.com</mail></member>
+		</team>
+<team id="A">
+			<member><name>Gao Hui Fang</name><mail>whitefangie@gmail.com</mail></member>
+			<member><name>Bernadette Quah</name><mail>berniequah@gmail.com</mail></member>
+			<member><name>Fred Le Master</name><mail>fred.lemaster@gmail.com</mail></member>
+			<member><name>Brennan Neoh</name><mail>brennanneoh@sis.smu.edu.sg</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Aen Tan</name><mail>hello@aentan.com</mail></member>
+			<member><name>Chiara de Castro</name><mail>chiara.decastro@gmail.com</mail></member>
+			<member><name>Ridhwan Rahim</name><mail>me@duanloves.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie@hummingbirdinteractive.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="C">
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+			<member><name>Keith Ng</name><mail>keith@gamemaki.com</mail></member>
+			<member><name>Chiaw Yong</name><mail>chiawyong@gmail.com</mail></member>
+			<member><name>Darrel Chua</name><mail>darrel@enveemedia.com.sg</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Joyce Huang</name><mail>joyce@sgentrepreneurs.com</mail></member>
+			<member><name>Nicole Tay</name><mail>nicole@facekitt.com</mail></member>
+			<member><name>Yanyun Chen</name><mail>musing.about@gmail.com</mail></member>
+			<member><name>Arul</name></member>
+			<member><name>Sara</name></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>ntt@tech65.org</mail></member>
+			<member><name>Danny Cochran</name><mail>daniel@cochrans.org</mail></member>
+			<member><name>Gao Hui Fang</name><mail>gao.huifang@dhs.sg</mail></member>
+			<member><name>Jai</name><mail>jdpillaris@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Ibrahim</name><mail>ibrahim13@gmail.com</mail></member>
+			<member><name>Ivan Vanzaj</name><twitter>@vanzaj</twitter></member>
+			<member><name>Kat Lalisan</name><mail>gilded.etiquette@gmail.com</mail></member>
+			<member><name>Philipp Weidhofer</name><mail>philipp.weidhofer@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Amandeep Singh</name><mail>aman.singh@xm-asia.com</mail></member>
+			<member><name>Preetam Rai</name><mail>preetamrai@np.edu.sg</mail></member>
+			<member><name>Yi Sung Yong</name><twitter>@yisungyong</twitter></member>
+			<member><name>Victoria Koo</name><mail>victoria.vic.koo@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Cameron Priest</name><mail>cameron@ontheroadapp.com</mail></member>
+			<member><name>Illum Khan</name><mail>illumkhan@singtel.com</mail></member>
+			<member><name>Sha Liang</name><mail>shalinag@ochrepictures.com</mail></member>
+			<member><name>Vicky Chang</name><mail>vicky@at3s.com.sg</mail></member>
+			<member><name>Winny</name><mail>wmyatster@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Aditya KG</name><mail>aditya.kristanto@gmail.com</mail></member>
+			<member><name>Andy Poen Wu</name><mail>andy-poen.wu@draeger.com</mail></member>
+			<member><name>Gabriel Sai</name><mail>gabsch@singtel.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="F">
+			<member><name>Alex Cheong</name><mail>alley.emaginary@gmail.com</mail></member>
+			<member><name>Farkhan Salleh</name><mail>i.am@farkhansalleh.info</mail></member>
+			<member><name>Liyana Sulaiman</name><mail>liyana.slmn@gmail.com</mail></member>
+			<member><name>Raven Lim</name><mail>neon.reflections@gmail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<member><name>Eva Wan</name><mail>eva.wan@possibleworldwide.com</mail></member>
+			<member><name>Jai</name><mail>jdpillaris@gmail.com</mail></member>
+			<member><name>Jaime Bosca</name><mail>jaime.bosca.gomez@gmail.com</mail></member>
+			<member><name>Kat Lalisan</name><mail>gilded.etiquette@gmail.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie@hummingbirldinteractive.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Ibrahim Iqbal</name><mail>ibrahim13@gmail.com</mail></member>
+			<member><name>Ketut Sulistyawati</name><mail>ketut.sulistyawati@readingroom.com.sg</mail></member>
+			<member><name>Maria Kuvshinova</name><mail>mariak@evenpanda.com</mail></member>
+			<member><name>Michael Ong</name><mail>michel.ong@iproperty.com</mail></member>
+			<member><name>Nuttakorn Rattanachaisit</name><mail>nuttakorn@me.com</mail></member>
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Alek Cannan</name><mail>alek.cannan@newton.circus.com</mail></member>
+			<member><name>Benedikt Glatzl</name><mail>benediktg@evenpanda.com</mail></member>
+			<member><name>Fern Yit</name><mail>fernyit@gmail.com</mail></member>
+			<member><name>Juan Sepulveda</name><mail>juan.sepulveda.sanchis@gmail.com</mail></member>
+			<member><name>Ridhwan Rahim</name><mail>me@duanloves.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Roger Zimmermann</name><mail>roger@friendstomankind.org</mail></member>
+			<member><name>Shiawuen</name><mail>shiawuen@gmail.com</mail></member>
+			<member><name>Shaj Widjaja</name><mail>shah_widjaja@yahoo.com</mail></member>
+			<member><name>Wu Jiajin</name><mail>jiajin.wu@continental-corporation.com</mail></member>
+			<member><name>Yew Kwok Chung</name><mail>yew_kwok_chung@ida.gov.sg</mail></member>
+			<challenge id="3"/>
+		</team>
+Debug at: http://127.0.0.1:5000/_debug/view/1334155578
+Starting server in PID 46996.
+serving on http://127.0.0.1:5000
+Debug at: http://127.0.0.1:5000/_debug/view/1334155641
+<team id="A">
+			<member><name>Chong Li-Chuan x Grace Sai x Jeff Lim x Kelvin Isaac x Sebastiaan Deckers</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="B">
+			<member><name>Darrel Chua x Gabriel Sai x Vinay M x Zhou Yinsheng (Eason)</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="C">
+			<member><name>Beverly Lin x James Norris x Merete Noer x Sven Berg Ryen</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="D">
+			<member><name>Fiona Craig x Meng Weng Wong x Samuel Chua x Sufen Koh x Vy Thuy Luong</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Jason Ong x Sharon Lourdes Paul x Usman Sheikh</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="F">
+			<member><name>Chee Aun Lim x Kiran Joshi x Veronica Ng x Zelig Dhi LEE Bai Hong</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="G">
+			<member><name>Navjot Pawera x Sayanee Basu x Ng Ling Ling x Subhransu Behera</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="H">
+			<member><name>Anh Han x Dawn Toh x Gao Huifang x Morten Fjeld</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="I">
+			<member><name>Chiara Maria de Castro x Mohammed Pitolwala x Shengdong Zhao x Tommaso Piazza</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<member><name>Abhay Rautela</name><mail>abhay@pebbleroad.com</mail></member>
+			<member><name>Florian Cornu</name><mail>florian@secretcoos.org</mail></member>
+			<member><name>Lloyd Wong</name></member>
+			<member><name>Rena Ong</name></member>
+			<member><name>Ronnie Tan</name></member>
+			<member><name>Stefan van der Bijl</name><mail>stefan@valdebrain.asia</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="B">
+			<member><name>Donald Lim</name><mail>donald@savantdegrees.com</mail></member>
+			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
+			<member><name>Gabriel Sal</name></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<member><name>Usman Sheikh</name><mail>usman@identifii.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="C">
+			<member><name>Grace Sai</name><mail>gracesai@gmail.com</mail></member>
+			<member><name>Robin Menck</name><mail>robin.genx@gmail.com</mail></member>
+			<member><name>Omar Banuelos</name><mail>omar.banuelos@hotmail.com</mail></member>
+			<member><name>Ken Ng</name><mail>code_word2@hotmail.com</mail></member>
+			<member><name>Ben Cess</name><mail>street.team@gmail.com</mail></member>
+			<member><name>Pooja Chaudhary</name></member>
+			<challenge id="2"/>
+		</team>
+<team id="D">
+			<member><name>Aggie Jin</name></member>
+			<member><name>Jason Ong</name><mail>velvetpd@gmail.com</mail></member>
+			<member><name>Nicola Lim</name></member>
+			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="E">
+			<member><name>Desmond Seetoh</name><mail>desmond@orita-sinclair.edu.sg</mail></member>
+			<member><name>Irene Tsjin</name><mail>irenetsjin@gmail.com</mail></member>
+			<member><name>Kiran Joshi</name><mail>kiran@joshi.sg</mail></member>
+			<member><name>Mohammed Xue Jin</name></member>
+			<member><name>Nuttakorn Rattanachaisit</name><mail>nuttakorn.rattanachaisit@possibleworldwide.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="F">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Jaidev Pillarisetti</name><mail>jaidev@netivate.com</mail></member>
+			<member><name>Kan Wee</name><mail>t@kw.sg</mail></member>
+			<member><name>Rheza Evans</name></member>
+			<member><name>Subhransu Behera</name><mail>subh@subhb.org</mail></member>
+			<member><name>Shah Widjaja</name></member>
+			<challenge id="3"/>
+		</team>
+<team id="G">
+			<member><name>Chiara Maria de Castro</name><mail>chiara@spudniks.net</mail></member>
+			<member><name>Manmitha</name></member>
+			<member><name>Nasos Kouroupis</name><mail>type.nasos@gmail.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="A">
+			<member><name>Richard Korff</name><mail>richard@tedxsingapore.sg</mail></member>
+			<member><name>Asher Devang</name><mail>asher.devang@clean-mobility.com.sg</mail></member>
+			<member><name>Florian Cornu</name><mail>florian@secretcooks.org</mail></member>
+			<member><name>Shah Widjaja</name><mail>shah_widjaja@yahoo.com</mail></member>
+			<member><name>Sue Ann Chia</name><mail>swen.chia@gmail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="B">
+			<member><name>Eric Ceret</name><mail>eric@elitemodels.sg</mail></member>
+			<member><name>Jose Sepulveda</name><mail>ilojrss@nus.edu.sg</mail></member>
+			<member><name>Dorothy Yap</name><mail>dotyyap@gmail.com</mail></member>
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="C">
+			<member><name>Gurpal Singh Kalra</name><mail>gurpalsinghkalra@gmail.com</mail></member>
+			<member><name>Bjorn Lee</name><mail>bjorn@appyzoo.com</mail></member>
+			<member><name>Harshal Desai</name><mail>hersheydesai@gmail.com</mail></member>
+			<member><name>Hari Haran</name><mail>hari@catena-technologies.com</mail></member>
+			<member><name>Bernise Ang</name><mail>bernise@syinc.org</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="D">
+			<member><name>Jones Yay</name><mail>jones.tay@possibleworlwide.com</mail></member>
+			<member><name>Michelle Wong</name><mail>m@smallengineerings.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<member><name>Irene Lim</name></member>
+			<member><name>Amandeep Singh Sandhu</name><mail>sandhu.aman@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
+			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Mohammed Pitolwala</name><mail>mohammedsp.me@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="A">
+			<member><name>Gao Huifang</name><mail>whitefangie@yahoo.com</mail></member>
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Dimitris Kapagioridis</name><mail>dkiearth@hotmail.com</mail></member>
+			<member><name>Pierre Wooldridge</name><mail/></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Aakriti Agarwal</name><mail>agarwal.aakriti@gmail.com</mail></member>
+			<member><name>Erin Frey</name><mail>erin.m.frey@gmail.com</mail></member>
+			<member><name>Meng Weng Wong</name><twitter>@mengwong</twitter></member>
+			<member><name>Wolfgang Maehr</name><mail>wm@njyo.net</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chiara Maria de Castro</name><mail>chiara@spudniks.net</mail></member>
+			<member><name>Thomas Gorissen</name><mail>thomas@adzcentral.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Navjot Pawera</name><mail>nav@extrathought.com</mail></member>
+			<member><name>Sayanee Basu</name><mail>sayanee@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="A">
+			<member><name>Alan Tan</name><mail>slamtoyjam@yahoo.com</mail></member>
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Roberto Mateu</name><mail>rmateu@me.com</mail></member>
+			<member><name>Sayanee Basu</name><mail>sayanee@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="B">
+			<member><name>Aggie Jin</name><mail>aggiejhf@gmail.com</mail></member>
+			<member><name>Amandeep Singh</name><mail>sandhu.aman@gmail.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>ntt@tech65.org</mail></member>
+			<member><name>Mark de Winne</name><mail>mark@relayroom.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Fiona Craig</name><mail>fjc@eitzen-chemical.com</mail></member>
+			<member><name>Pia Andreewitch</name><mail>pia.andreewitch@internationalsos.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>GK Ang</name><mail>silver_agk@hotmail.com</mail></member>
+			<member><name>Ilyana Saat</name><mail>ilyana@hummingbird.com</mail></member>
+			<member><name>Michael Ong</name><mail>michael.ong@iproperty.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie.marinho@gmail.com</mail></member>
+			<member><name>Nono Umasy</name><mail>nonoumasy@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Chaarulatha Dharmaraj</name><mail>chaarud@gmail.com</mail></member>
+			<member><name>Eric Tan</name><mail>ericon85@yahoo.com</mail></member>
+			<member><name>Lynn Lee</name><mail>lynn.lee@watatawa.asia</mail></member>
+			<member><name>Ming Hui</name><mail>minghui@gamemaki.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="F">
+			<member><name>Dan Walton</name><mail>dan@retronyms.com</mail></member>
+			<member><name>Johnson Goh</name><mail>johnson@cellkast.com</mail></member>
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Meng Weng Wong</name><mail>mengwong@gmail.com</mail></member>
+			<member><name>Navjot Pawera</name><mail>nav@extrathought.com</mail></member>
+		</team>
+<team id="A">
+			<member><name>Chen Zhi Hui Shaun</name><mail>chenshaun@stengg.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>net@tech65.org</mail></member>
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Louis Karim</name><mail>louiskarim@gmail.com</mail></member>
+			<member><name>Mikhaila Aldaba</name><mail>mikhail a@techsailor.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Abhishek Radhakrishnan</name><mail>abhishek@lambdamugames.com</mail></member>
+			<member><name>Amandeep Singh</name><mail>sandhu.aman@gmail.com</mail></member>
+			<member><name>Gao Hui Fang</name><mail>whitefangie@yahoo.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<challenge id="3"/>
+			<member><name>Sami Kizilbash</name><mail>sami@figr.com</mail></member>
+			<member><name>Prashant Kumar</name><mail>prashant.kumar@iproperty.com</mail></member>
+			<member><name>Arief Aziz</name><mail>arief@tedxjkt.org</mail></member>
+			<member><name>Michael Ong</name><mail>michael.ong@iproperty.com</mail></member>
+			<member><name>Grace Sai</name><mail>gracesai@gmail.com</mail></member>
+			<member><name>Zuhairah Ariff</name><mail>zuhairah.a@gmail.com</mail></member>
+		</team>
+<team id="B">
+			<challenge id="3"/>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<member><name>Elly Lisa</name><mail>ellylisaconnect@gmail.com</mail></member>
+			<member><name>Rishab Malik</name><mail>rishab@figr.com</mail></member>
+			<member><name>Shah Widjaja</name><mail/></member>
+			<member><name>Ling Ling</name><mail>linglingn@yahoo.com</mail></member>
+			<member><name>John Tan</name><mail>johntan@orita-sinclair.edu.sg</mail></member>
+		</team>
+<team id="C">
+			<challenge id="2"/>
+			<member><name>Ng Yeen Chern</name><mail>yowl75@yahoo.com</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Sian Ng</name><mail>sansian@gmail.com</mail></member>
+			<member><name>Alex</name><mail>altey.emaginary@gmail.com</mail></member>
+			<member><name>Mark de Winne</name><mail>mark@relayroom.com</mail></member>
+			<member><name>Lim Kian Yong</name><mail/></member>
+		</team>
+<team id="D">
+			<challenge id="2"/>
+			<member><name>Haradur Mar Unnarson</name><mail>info@h-unnarsson.com</mail></member>
+			<member><name>Micah Sulit</name><mail>micah.sulit@yahoo.com</mail></member>
+			<member><name>Jessie Chew</name><mail>jessie@orita-sinclair.edu.sg</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>net@tech65.org</mail></member>
+			<member><name>Poi Hierro</name><mail/></member>
+			<member><name>Ben Cess</name><mail>bentheman@gmail.com</mail></member>
+			<member><name>Andy</name><mail>andykan90@gmail.com</mail></member>
+			<member><name>Kiki</name><mail>kaeting@live.com</mail></member>
+		</team>
+<team id="E">
+			<challenge id="3"/>
+			<member><name>Jeffrey Tjendra</name><mail>s101251@sp.edu.sg</mail></member>
+			<member><name>K</name><mail>bluewasd@gmail.com</mail></member>
+			<member><name>May Chua</name><mail>may@relayroom.com</mail></member>
+			<member><name>Wu Jiajin</name><mail>jiajin@hp.com</mail></member>
+			<member><name>Ketut Sulistyawati</name><mail>tyawati@gmail.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+		</team>
+<team id="F">
+			<challenge id="3"/>
+			<member><name>Jeremy Barribeau</name><mail>barribeau@hp.com</mail></member>
+			<member><name>Samantha Lim</name><mail>samrr.lim@gmail.com</mail></member>
+			<member><name>Shawn Toh</name><mail>toh.cks@live.com</mail></member>
+			<member><name>Lai Pek Hia</name><mail>lai_pek_hia@rp.sg</mail></member>
+			<member><name>Arul Prasad</name><mail>arul@playmoolah.com</mail></member>
+		</team>
+<team id="A">
+			<member><name>Gao Hui Fang</name><mail>whitefangie@gmail.com</mail></member>
+			<member><name>Bernadette Quah</name><mail>berniequah@gmail.com</mail></member>
+			<member><name>Fred Le Master</name><mail>fred.lemaster@gmail.com</mail></member>
+			<member><name>Brennan Neoh</name><mail>brennanneoh@sis.smu.edu.sg</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Aen Tan</name><mail>hello@aentan.com</mail></member>
+			<member><name>Chiara de Castro</name><mail>chiara.decastro@gmail.com</mail></member>
+			<member><name>Ridhwan Rahim</name><mail>me@duanloves.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie@hummingbirdinteractive.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="C">
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+			<member><name>Keith Ng</name><mail>keith@gamemaki.com</mail></member>
+			<member><name>Chiaw Yong</name><mail>chiawyong@gmail.com</mail></member>
+			<member><name>Darrel Chua</name><mail>darrel@enveemedia.com.sg</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Joyce Huang</name><mail>joyce@sgentrepreneurs.com</mail></member>
+			<member><name>Nicole Tay</name><mail>nicole@facekitt.com</mail></member>
+			<member><name>Yanyun Chen</name><mail>musing.about@gmail.com</mail></member>
+			<member><name>Arul</name></member>
+			<member><name>Sara</name></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>ntt@tech65.org</mail></member>
+			<member><name>Danny Cochran</name><mail>daniel@cochrans.org</mail></member>
+			<member><name>Gao Hui Fang</name><mail>gao.huifang@dhs.sg</mail></member>
+			<member><name>Jai</name><mail>jdpillaris@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Ibrahim</name><mail>ibrahim13@gmail.com</mail></member>
+			<member><name>Ivan Vanzaj</name><twitter>@vanzaj</twitter></member>
+			<member><name>Kat Lalisan</name><mail>gilded.etiquette@gmail.com</mail></member>
+			<member><name>Philipp Weidhofer</name><mail>philipp.weidhofer@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Amandeep Singh</name><mail>aman.singh@xm-asia.com</mail></member>
+			<member><name>Preetam Rai</name><mail>preetamrai@np.edu.sg</mail></member>
+			<member><name>Yi Sung Yong</name><twitter>@yisungyong</twitter></member>
+			<member><name>Victoria Koo</name><mail>victoria.vic.koo@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Cameron Priest</name><mail>cameron@ontheroadapp.com</mail></member>
+			<member><name>Illum Khan</name><mail>illumkhan@singtel.com</mail></member>
+			<member><name>Sha Liang</name><mail>shalinag@ochrepictures.com</mail></member>
+			<member><name>Vicky Chang</name><mail>vicky@at3s.com.sg</mail></member>
+			<member><name>Winny</name><mail>wmyatster@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Aditya KG</name><mail>aditya.kristanto@gmail.com</mail></member>
+			<member><name>Andy Poen Wu</name><mail>andy-poen.wu@draeger.com</mail></member>
+			<member><name>Gabriel Sai</name><mail>gabsch@singtel.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="F">
+			<member><name>Alex Cheong</name><mail>alley.emaginary@gmail.com</mail></member>
+			<member><name>Farkhan Salleh</name><mail>i.am@farkhansalleh.info</mail></member>
+			<member><name>Liyana Sulaiman</name><mail>liyana.slmn@gmail.com</mail></member>
+			<member><name>Raven Lim</name><mail>neon.reflections@gmail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<member><name>Eva Wan</name><mail>eva.wan@possibleworldwide.com</mail></member>
+			<member><name>Jai</name><mail>jdpillaris@gmail.com</mail></member>
+			<member><name>Jaime Bosca</name><mail>jaime.bosca.gomez@gmail.com</mail></member>
+			<member><name>Kat Lalisan</name><mail>gilded.etiquette@gmail.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie@hummingbirldinteractive.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Ibrahim Iqbal</name><mail>ibrahim13@gmail.com</mail></member>
+			<member><name>Ketut Sulistyawati</name><mail>ketut.sulistyawati@readingroom.com.sg</mail></member>
+			<member><name>Maria Kuvshinova</name><mail>mariak@evenpanda.com</mail></member>
+			<member><name>Michael Ong</name><mail>michel.ong@iproperty.com</mail></member>
+			<member><name>Nuttakorn Rattanachaisit</name><mail>nuttakorn@me.com</mail></member>
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Alek Cannan</name><mail>alek.cannan@newton.circus.com</mail></member>
+			<member><name>Benedikt Glatzl</name><mail>benediktg@evenpanda.com</mail></member>
+			<member><name>Fern Yit</name><mail>fernyit@gmail.com</mail></member>
+			<member><name>Juan Sepulveda</name><mail>juan.sepulveda.sanchis@gmail.com</mail></member>
+			<member><name>Ridhwan Rahim</name><mail>me@duanloves.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Roger Zimmermann</name><mail>roger@friendstomankind.org</mail></member>
+			<member><name>Shiawuen</name><mail>shiawuen@gmail.com</mail></member>
+			<member><name>Shaj Widjaja</name><mail>shah_widjaja@yahoo.com</mail></member>
+			<member><name>Wu Jiajin</name><mail>jiajin.wu@continental-corporation.com</mail></member>
+			<member><name>Yew Kwok Chung</name><mail>yew_kwok_chung@ida.gov.sg</mail></member>
+			<challenge id="3"/>
+		</team>
+Starting server in PID 47012.
+serving on http://127.0.0.1:5000
+Debug at: http://127.0.0.1:5000/_debug/view/1334155776
+Starting server in PID 47016.
+serving on http://127.0.0.1:5000
+<team id="A">
+			<member><name>Chong Li-Chuan x Grace Sai x Jeff Lim x Kelvin Isaac x Sebastiaan Deckers</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="B">
+			<member><name>Darrel Chua x Gabriel Sai x Vinay M x Zhou Yinsheng (Eason)</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="C">
+			<member><name>Beverly Lin x James Norris x Merete Noer x Sven Berg Ryen</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="D">
+			<member><name>Fiona Craig x Meng Weng Wong x Samuel Chua x Sufen Koh x Vy Thuy Luong</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Jason Ong x Sharon Lourdes Paul x Usman Sheikh</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="F">
+			<member><name>Chee Aun Lim x Kiran Joshi x Veronica Ng x Zelig Dhi LEE Bai Hong</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="G">
+			<member><name>Navjot Pawera x Sayanee Basu x Ng Ling Ling x Subhransu Behera</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="H">
+			<member><name>Anh Han x Dawn Toh x Gao Huifang x Morten Fjeld</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="5"/>
+		</team>
+<team id="I">
+			<member><name>Chiara Maria de Castro x Mohammed Pitolwala x Shengdong Zhao x Tommaso Piazza</name><mail>john.doe@mail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<member><name>Abhay Rautela</name><mail>abhay@pebbleroad.com</mail></member>
+			<member><name>Florian Cornu</name><mail>florian@secretcoos.org</mail></member>
+			<member><name>Lloyd Wong</name></member>
+			<member><name>Rena Ong</name></member>
+			<member><name>Ronnie Tan</name></member>
+			<member><name>Stefan van der Bijl</name><mail>stefan@valdebrain.asia</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="B">
+			<member><name>Donald Lim</name><mail>donald@savantdegrees.com</mail></member>
+			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
+			<member><name>Gabriel Sal</name></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<member><name>Usman Sheikh</name><mail>usman@identifii.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="C">
+			<member><name>Grace Sai</name><mail>gracesai@gmail.com</mail></member>
+			<member><name>Robin Menck</name><mail>robin.genx@gmail.com</mail></member>
+			<member><name>Omar Banuelos</name><mail>omar.banuelos@hotmail.com</mail></member>
+			<member><name>Ken Ng</name><mail>code_word2@hotmail.com</mail></member>
+			<member><name>Ben Cess</name><mail>street.team@gmail.com</mail></member>
+			<member><name>Pooja Chaudhary</name></member>
+			<challenge id="2"/>
+		</team>
+<team id="D">
+			<member><name>Aggie Jin</name></member>
+			<member><name>Jason Ong</name><mail>velvetpd@gmail.com</mail></member>
+			<member><name>Nicola Lim</name></member>
+			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="E">
+			<member><name>Desmond Seetoh</name><mail>desmond@orita-sinclair.edu.sg</mail></member>
+			<member><name>Irene Tsjin</name><mail>irenetsjin@gmail.com</mail></member>
+			<member><name>Kiran Joshi</name><mail>kiran@joshi.sg</mail></member>
+			<member><name>Mohammed Xue Jin</name></member>
+			<member><name>Nuttakorn Rattanachaisit</name><mail>nuttakorn.rattanachaisit@possibleworldwide.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="F">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Jaidev Pillarisetti</name><mail>jaidev@netivate.com</mail></member>
+			<member><name>Kan Wee</name><mail>t@kw.sg</mail></member>
+			<member><name>Rheza Evans</name></member>
+			<member><name>Subhransu Behera</name><mail>subh@subhb.org</mail></member>
+			<member><name>Shah Widjaja</name></member>
+			<challenge id="3"/>
+		</team>
+<team id="G">
+			<member><name>Chiara Maria de Castro</name><mail>chiara@spudniks.net</mail></member>
+			<member><name>Manmitha</name></member>
+			<member><name>Nasos Kouroupis</name><mail>type.nasos@gmail.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="A">
+			<member><name>Richard Korff</name><mail>richard@tedxsingapore.sg</mail></member>
+			<member><name>Asher Devang</name><mail>asher.devang@clean-mobility.com.sg</mail></member>
+			<member><name>Florian Cornu</name><mail>florian@secretcooks.org</mail></member>
+			<member><name>Shah Widjaja</name><mail>shah_widjaja@yahoo.com</mail></member>
+			<member><name>Sue Ann Chia</name><mail>swen.chia@gmail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="B">
+			<member><name>Eric Ceret</name><mail>eric@elitemodels.sg</mail></member>
+			<member><name>Jose Sepulveda</name><mail>ilojrss@nus.edu.sg</mail></member>
+			<member><name>Dorothy Yap</name><mail>dotyyap@gmail.com</mail></member>
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="C">
+			<member><name>Gurpal Singh Kalra</name><mail>gurpalsinghkalra@gmail.com</mail></member>
+			<member><name>Bjorn Lee</name><mail>bjorn@appyzoo.com</mail></member>
+			<member><name>Harshal Desai</name><mail>hersheydesai@gmail.com</mail></member>
+			<member><name>Hari Haran</name><mail>hari@catena-technologies.com</mail></member>
+			<member><name>Bernise Ang</name><mail>bernise@syinc.org</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="D">
+			<member><name>Jones Yay</name><mail>jones.tay@possibleworlwide.com</mail></member>
+			<member><name>Michelle Wong</name><mail>m@smallengineerings.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<member><name>Irene Lim</name></member>
+			<member><name>Amandeep Singh Sandhu</name><mail>sandhu.aman@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
+			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Mohammed Pitolwala</name><mail>mohammedsp.me@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="A">
+			<member><name>Gao Huifang</name><mail>whitefangie@yahoo.com</mail></member>
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Dimitris Kapagioridis</name><mail>dkiearth@hotmail.com</mail></member>
+			<member><name>Pierre Wooldridge</name><mail/></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Aakriti Agarwal</name><mail>agarwal.aakriti@gmail.com</mail></member>
+			<member><name>Erin Frey</name><mail>erin.m.frey@gmail.com</mail></member>
+			<member><name>Meng Weng Wong</name><twitter>@mengwong</twitter></member>
+			<member><name>Wolfgang Maehr</name><mail>wm@njyo.net</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chiara Maria de Castro</name><mail>chiara@spudniks.net</mail></member>
+			<member><name>Thomas Gorissen</name><mail>thomas@adzcentral.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Navjot Pawera</name><mail>nav@extrathought.com</mail></member>
+			<member><name>Sayanee Basu</name><mail>sayanee@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="A">
+			<member><name>Alan Tan</name><mail>slamtoyjam@yahoo.com</mail></member>
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Roberto Mateu</name><mail>rmateu@me.com</mail></member>
+			<member><name>Sayanee Basu</name><mail>sayanee@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="3"/>
+		</team>
+<team id="B">
+			<member><name>Aggie Jin</name><mail>aggiejhf@gmail.com</mail></member>
+			<member><name>Amandeep Singh</name><mail>sandhu.aman@gmail.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>ntt@tech65.org</mail></member>
+			<member><name>Mark de Winne</name><mail>mark@relayroom.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Fiona Craig</name><mail>fjc@eitzen-chemical.com</mail></member>
+			<member><name>Pia Andreewitch</name><mail>pia.andreewitch@internationalsos.com</mail></member>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>GK Ang</name><mail>silver_agk@hotmail.com</mail></member>
+			<member><name>Ilyana Saat</name><mail>ilyana@hummingbird.com</mail></member>
+			<member><name>Michael Ong</name><mail>michael.ong@iproperty.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie.marinho@gmail.com</mail></member>
+			<member><name>Nono Umasy</name><mail>nonoumasy@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Chaarulatha Dharmaraj</name><mail>chaarud@gmail.com</mail></member>
+			<member><name>Eric Tan</name><mail>ericon85@yahoo.com</mail></member>
+			<member><name>Lynn Lee</name><mail>lynn.lee@watatawa.asia</mail></member>
+			<member><name>Ming Hui</name><mail>minghui@gamemaki.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="F">
+			<member><name>Dan Walton</name><mail>dan@retronyms.com</mail></member>
+			<member><name>Johnson Goh</name><mail>johnson@cellkast.com</mail></member>
+			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
+			<member><name>Meng Weng Wong</name><mail>mengwong@gmail.com</mail></member>
+			<member><name>Navjot Pawera</name><mail>nav@extrathought.com</mail></member>
+		</team>
+<team id="A">
+			<member><name>Chen Zhi Hui Shaun</name><mail>chenshaun@stengg.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>net@tech65.org</mail></member>
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Louis Karim</name><mail>louiskarim@gmail.com</mail></member>
+			<member><name>Mikhaila Aldaba</name><mail>mikhail a@techsailor.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Abhishek Radhakrishnan</name><mail>abhishek@lambdamugames.com</mail></member>
+			<member><name>Amandeep Singh</name><mail>sandhu.aman@gmail.com</mail></member>
+			<member><name>Gao Hui Fang</name><mail>whitefangie@yahoo.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<challenge id="3"/>
+			<member><name>Sami Kizilbash</name><mail>sami@figr.com</mail></member>
+			<member><name>Prashant Kumar</name><mail>prashant.kumar@iproperty.com</mail></member>
+			<member><name>Arief Aziz</name><mail>arief@tedxjkt.org</mail></member>
+			<member><name>Michael Ong</name><mail>michael.ong@iproperty.com</mail></member>
+			<member><name>Grace Sai</name><mail>gracesai@gmail.com</mail></member>
+			<member><name>Zuhairah Ariff</name><mail>zuhairah.a@gmail.com</mail></member>
+		</team>
+<team id="B">
+			<challenge id="3"/>
+			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
+			<member><name>Elly Lisa</name><mail>ellylisaconnect@gmail.com</mail></member>
+			<member><name>Rishab Malik</name><mail>rishab@figr.com</mail></member>
+			<member><name>Shah Widjaja</name><mail/></member>
+			<member><name>Ling Ling</name><mail>linglingn@yahoo.com</mail></member>
+			<member><name>John Tan</name><mail>johntan@orita-sinclair.edu.sg</mail></member>
+		</team>
+<team id="C">
+			<challenge id="2"/>
+			<member><name>Ng Yeen Chern</name><mail>yowl75@yahoo.com</mail></member>
+			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
+			<member><name>Sian Ng</name><mail>sansian@gmail.com</mail></member>
+			<member><name>Alex</name><mail>altey.emaginary@gmail.com</mail></member>
+			<member><name>Mark de Winne</name><mail>mark@relayroom.com</mail></member>
+			<member><name>Lim Kian Yong</name><mail/></member>
+		</team>
+<team id="D">
+			<challenge id="2"/>
+			<member><name>Haradur Mar Unnarson</name><mail>info@h-unnarsson.com</mail></member>
+			<member><name>Micah Sulit</name><mail>micah.sulit@yahoo.com</mail></member>
+			<member><name>Jessie Chew</name><mail>jessie@orita-sinclair.edu.sg</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>net@tech65.org</mail></member>
+			<member><name>Poi Hierro</name><mail/></member>
+			<member><name>Ben Cess</name><mail>bentheman@gmail.com</mail></member>
+			<member><name>Andy</name><mail>andykan90@gmail.com</mail></member>
+			<member><name>Kiki</name><mail>kaeting@live.com</mail></member>
+		</team>
+<team id="E">
+			<challenge id="3"/>
+			<member><name>Jeffrey Tjendra</name><mail>s101251@sp.edu.sg</mail></member>
+			<member><name>K</name><mail>bluewasd@gmail.com</mail></member>
+			<member><name>May Chua</name><mail>may@relayroom.com</mail></member>
+			<member><name>Wu Jiajin</name><mail>jiajin@hp.com</mail></member>
+			<member><name>Ketut Sulistyawati</name><mail>tyawati@gmail.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+		</team>
+<team id="F">
+			<challenge id="3"/>
+			<member><name>Jeremy Barribeau</name><mail>barribeau@hp.com</mail></member>
+			<member><name>Samantha Lim</name><mail>samrr.lim@gmail.com</mail></member>
+			<member><name>Shawn Toh</name><mail>toh.cks@live.com</mail></member>
+			<member><name>Lai Pek Hia</name><mail>lai_pek_hia@rp.sg</mail></member>
+			<member><name>Arul Prasad</name><mail>arul@playmoolah.com</mail></member>
+		</team>
+<team id="A">
+			<member><name>Gao Hui Fang</name><mail>whitefangie@gmail.com</mail></member>
+			<member><name>Bernadette Quah</name><mail>berniequah@gmail.com</mail></member>
+			<member><name>Fred Le Master</name><mail>fred.lemaster@gmail.com</mail></member>
+			<member><name>Brennan Neoh</name><mail>brennanneoh@sis.smu.edu.sg</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Aen Tan</name><mail>hello@aentan.com</mail></member>
+			<member><name>Chiara de Castro</name><mail>chiara.decastro@gmail.com</mail></member>
+			<member><name>Ridhwan Rahim</name><mail>me@duanloves.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie@hummingbirdinteractive.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="C">
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+			<member><name>Keith Ng</name><mail>keith@gamemaki.com</mail></member>
+			<member><name>Chiaw Yong</name><mail>chiawyong@gmail.com</mail></member>
+			<member><name>Darrel Chua</name><mail>darrel@enveemedia.com.sg</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Joyce Huang</name><mail>joyce@sgentrepreneurs.com</mail></member>
+			<member><name>Nicole Tay</name><mail>nicole@facekitt.com</mail></member>
+			<member><name>Yanyun Chen</name><mail>musing.about@gmail.com</mail></member>
+			<member><name>Arul</name></member>
+			<member><name>Sara</name></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
+			<member><name>Chinmay Pendharkar</name><mail>ntt@tech65.org</mail></member>
+			<member><name>Danny Cochran</name><mail>daniel@cochrans.org</mail></member>
+			<member><name>Gao Hui Fang</name><mail>gao.huifang@dhs.sg</mail></member>
+			<member><name>Jai</name><mail>jdpillaris@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Ibrahim</name><mail>ibrahim13@gmail.com</mail></member>
+			<member><name>Ivan Vanzaj</name><twitter>@vanzaj</twitter></member>
+			<member><name>Kat Lalisan</name><mail>gilded.etiquette@gmail.com</mail></member>
+			<member><name>Philipp Weidhofer</name><mail>philipp.weidhofer@gmail.com</mail></member>
+			<member><name>Sebastiaan Deckers</name><mail>seb@adzcentral.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Amandeep Singh</name><mail>aman.singh@xm-asia.com</mail></member>
+			<member><name>Preetam Rai</name><mail>preetamrai@np.edu.sg</mail></member>
+			<member><name>Yi Sung Yong</name><twitter>@yisungyong</twitter></member>
+			<member><name>Victoria Koo</name><mail>victoria.vic.koo@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Cameron Priest</name><mail>cameron@ontheroadapp.com</mail></member>
+			<member><name>Illum Khan</name><mail>illumkhan@singtel.com</mail></member>
+			<member><name>Sha Liang</name><mail>shalinag@ochrepictures.com</mail></member>
+			<member><name>Vicky Chang</name><mail>vicky@at3s.com.sg</mail></member>
+			<member><name>Winny</name><mail>wmyatster@gmail.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="E">
+			<member><name>Aditya KG</name><mail>aditya.kristanto@gmail.com</mail></member>
+			<member><name>Andy Poen Wu</name><mail>andy-poen.wu@draeger.com</mail></member>
+			<member><name>Gabriel Sai</name><mail>gabsch@singtel.com</mail></member>
+			<member><name>Mika Aldaba</name><mail>bmaldaba@gmail.com</mail></member>
+			<member><name>Veronica Ng</name><mail>veronica@firstmeta.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="F">
+			<member><name>Alex Cheong</name><mail>alley.emaginary@gmail.com</mail></member>
+			<member><name>Farkhan Salleh</name><mail>i.am@farkhansalleh.info</mail></member>
+			<member><name>Liyana Sulaiman</name><mail>liyana.slmn@gmail.com</mail></member>
+			<member><name>Raven Lim</name><mail>neon.reflections@gmail.com</mail></member>
+			<challenge id="2"/>
+		</team>
+<team id="A">
+			<member><name>Eva Wan</name><mail>eva.wan@possibleworldwide.com</mail></member>
+			<member><name>Jai</name><mail>jdpillaris@gmail.com</mail></member>
+			<member><name>Jaime Bosca</name><mail>jaime.bosca.gomez@gmail.com</mail></member>
+			<member><name>Kat Lalisan</name><mail>gilded.etiquette@gmail.com</mail></member>
+			<member><name>Natalie Marinho</name><mail>natalie@hummingbirldinteractive.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="B">
+			<member><name>Ibrahim Iqbal</name><mail>ibrahim13@gmail.com</mail></member>
+			<member><name>Ketut Sulistyawati</name><mail>ketut.sulistyawati@readingroom.com.sg</mail></member>
+			<member><name>Maria Kuvshinova</name><mail>mariak@evenpanda.com</mail></member>
+			<member><name>Michael Ong</name><mail>michel.ong@iproperty.com</mail></member>
+			<member><name>Nuttakorn Rattanachaisit</name><mail>nuttakorn@me.com</mail></member>
+			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="C">
+			<member><name>Alek Cannan</name><mail>alek.cannan@newton.circus.com</mail></member>
+			<member><name>Benedikt Glatzl</name><mail>benediktg@evenpanda.com</mail></member>
+			<member><name>Fern Yit</name><mail>fernyit@gmail.com</mail></member>
+			<member><name>Juan Sepulveda</name><mail>juan.sepulveda.sanchis@gmail.com</mail></member>
+			<member><name>Ridhwan Rahim</name><mail>me@duanloves.com</mail></member>
+			<challenge id="1"/>
+		</team>
+<team id="D">
+			<member><name>Roger Zimmermann</name><mail>roger@friendstomankind.org</mail></member>
+			<member><name>Shiawuen</name><mail>shiawuen@gmail.com</mail></member>
+			<member><name>Shaj Widjaja</name><mail>shah_widjaja@yahoo.com</mail></member>
+			<member><name>Wu Jiajin</name><mail>jiajin.wu@continental-corporation.com</mail></member>
+			<member><name>Yew Kwok Chung</name><mail>yew_kwok_chung@ida.gov.sg</mail></member>
+			<challenge id="3"/>
+		</team>

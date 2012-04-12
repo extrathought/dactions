@@ -19,7 +19,27 @@ class Results:
     def __init__(self, filename):
         """do the parsing magic"""
         doc = minidom.parse(filename)
+        # set date
         self.date =  self._getText(doc.getElementsByTagName("date"))
+        # ste location
+        venue = self._getText(doc.getElementsByTagName("venue"))
+        address =  self._getText(doc.getElementsByTagName("venue"))
+        city = self._getText(doc.getElementsByTagName("venue"))
+        country = self._getText(doc.getElementsByTagName("venue"))
+        self.location = {"venue" : venue, "address" : address, "city" : city, "country" : country}
+        # set challenges
+        for challenge in doc.getElementsByTagName("venue"):
+            id = challenge.getAttribute("id")
+            type = challenge.getAttribute("type")
+            ch = challenge.data
+            self.challenges.append({"id": id, "type": type, "challenge" : ch})
+        # set winners
+        for win in doc.getElementsByTagName("winner"):
+        win[0].getAttribute("team")
+        # set pictures
+
+        # set teams
+
         teams = doc.getElementsByTagName("team")
         for team in teams:
             print team.toxml()
@@ -27,8 +47,8 @@ class Results:
     def _getText(self, nodelist):
         rc = []
         for node in nodelist:
-            if node.nodeType == node.TEXT_NODE:
-                rc.append(node.data)
+            if node.childNodes[0].nodeType == node.TEXT_NODE:
+                rc.append(node.childNodes[0].data)
         return ''.join(rc)
 
 """

@@ -11,27 +11,27 @@
 		<challenge id="2" type="Redesign">Design your zero gravity living or leisure room. Assume that the human approach to life has not changed much despite all innovation.</challenge>
 		<challenge id="3" type="Refine">Design a public teleportation booth. Assume that there is a requirement for a target booth and a certain cost is incurred.</challenge>
 	</challenges>
-	<winner team="C" />
+	<winner>C</winner>
 	<pictures>https://www.facebook.com/media/set/?set=oa.293698737329934</pictures>
 	<teams>
-		<team id="A">
+		<team id="A" challenge="1">
 			<member><name>Chen Zhi Hui Shaun</name><mail>chenshaun@stengg.com</mail></member>
 			<member><name>Chinmay Pendharkar</name><mail>net@tech65.org</mail></member>
 			<member><name>Wolfgang Maehr</name><mail>wolf@extrathought.com</mail></member>
-			<challenge id="1" />
+			<pages>2</pages>
 		</team>
-		<team id="B">
+		<team id="B" challenge="1">
 			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
 			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
 			<member><name>Louis Karim</name><mail>louiskarim@gmail.com</mail></member>
 			<member><name>Mikhaila Aldaba</name><mail>mikhail a@techsailor.com</mail></member>
-			<challenge id="1" />
+			<pages>1</pages>
 		</team>
-		<team id="C">
+		<team id="C" challenge="2">
 			<member><name>Abhishek Radhakrishnan</name><mail>abhishek@lambdamugames.com</mail></member>
 			<member><name>Amandeep Singh</name><mail>sandhu.aman@gmail.com</mail></member>
 			<member><name>Gao Hui Fang</name><mail>whitefangie@yahoo.com</mail></member>
-			<challenge id="2" />
+			<pages>1</pages>
 		</team>
 	</teams>
 </destraction>

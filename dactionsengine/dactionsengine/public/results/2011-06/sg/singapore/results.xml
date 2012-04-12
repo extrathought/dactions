@@ -13,43 +13,44 @@
 		<challenge id="4">A safe and elegant way to leave your laptop at a coffee shop table&#x2026;</challenge>
 		<challenge id="5">A set-up that encourages passengers to move into the public transport instead of clogging the entrance&#x2026;</challenge>
 	</challenges>
+	<winner/>
 	<pictures>http://www.flickr.com/photos/dactions/sets/72157627023971832/</pictures>
 	<teams>
-		<team id="A">
+		<team id="A" challenge="5">
 			<member><name>Chong Li-Chuan x Grace Sai x Jeff Lim x Kelvin Isaac x Sebastiaan Deckers</name><mail>john.doe@mail.com</mail></member>
-			<challenge id="5" />
+			<pages>1</pages>
 		</team>
-		<team id="B">
+		<team id="B" challenge="5">
 			<member><name>Darrel Chua x Gabriel Sai x Vinay M x Zhou Yinsheng (Eason)</name><mail>john.doe@mail.com</mail></member>
-			<challenge id="5" />
+			<pages>2</pages>
 		</team>
-		<team id="C">
+		<team id="C" challenge="5">
 			<member><name>Beverly Lin x James Norris x Merete Noer x Sven Berg Ryen</name><mail>john.doe@mail.com</mail></member>
-			<challenge id="5" />
+			<pages>2</pages>
 		</team>
-		<team id="D">
+		<team id="D" challenge="1">
 			<member><name>Fiona Craig x Meng Weng Wong x Samuel Chua x Sufen Koh x Vy Thuy Luong</name><mail>john.doe@mail.com</mail></member>
-			<challenge id="1" />
+			<pages>1</pages>
 		</team>
-		<team id="E">
+		<team id="E" challenge="5">
 			<member><name>Jason Ong x Sharon Lourdes Paul x Usman Sheikh</name><mail>john.doe@mail.com</mail></member>
-			<challenge id="5" />
+			<pages>1</pages>
 		</team>
-		<team id="F">
+		<team id="F" challenge="5">
 			<member><name>Chee Aun Lim x Kiran Joshi x Veronica Ng x Zelig Dhi LEE Bai Hong</name><mail>john.doe@mail.com</mail></member>
-			<challenge id="5" />
+			<pages>3</pages>
 		</team>
-		<team id="G">
+		<team id="G" challenge="5">
 			<member><name>Navjot Pawera x Sayanee Basu x Ng Ling Ling x Subhransu Behera</name><mail>john.doe@mail.com</mail></member>
-			<challenge id="5" />
+			<pages>3</pages>
 		</team>
-		<team id="H">
+		<team id="H" challenge="5">
 			<member><name>Anh Han x Dawn Toh x Gao Huifang x Morten Fjeld</name><mail>john.doe@mail.com</mail></member>
-			<challenge id="5" />
+			<pages>2</pages>
 		</team>
-		<team id="I">
+		<team id="I" challenge="5">
 			<member><name>Chiara Maria de Castro x Mohammed Pitolwala x Shengdong Zhao x Tommaso Piazza</name><mail>john.doe@mail.com</mail></member>
-			<challenge id="2" />
+			<pages>3</pages>
 		</team>
 	</teams>
 </destraction>

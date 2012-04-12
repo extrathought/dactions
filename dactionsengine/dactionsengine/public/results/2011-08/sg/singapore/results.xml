@@ -11,47 +11,47 @@
 		<challenge id="2" type="Redesign">A public trash bin that doubles as a feeding post for another animal species. Bonus: Solutions that don't make a mess of the surroundings or create a biohazard.</challenge>
 		<challenge id="3" type="Refine">A simpler and less resource-wasting registration process for DestrActions. Bonus: Flexibility of walk-in and registration support.</challenge>
 	</challenges>
-	<winner team="C" />
+	<winner>C</winner>
 	<pictures>http://www.flickr.com/photos/dactions/sets/72157627490917116/</pictures>
 	<teams>
-		<team id="A">
+		<team id="A" challenge="2">
 			<member><name>Richard Korff</name><mail>richard@tedxsingapore.sg</mail></member>
 			<member><name>Asher Devang</name><mail>asher.devang@clean-mobility.com.sg</mail></member>
 			<member><name>Florian Cornu</name><mail>florian@secretcooks.org</mail></member>
 			<member><name>Shah Widjaja</name><mail>shah_widjaja@yahoo.com</mail></member>
 			<member><name>Sue Ann Chia</name><mail>swen.chia@gmail.com</mail></member>
-			<challenge id="2" />
+			<pages>1</pages>
 		</team>
-		<team id="B">
+		<team id="B" challenge="2">
 			<member><name>Eric Ceret</name><mail>eric@elitemodels.sg</mail></member>
 			<member><name>Jose Sepulveda</name><mail>ilojrss@nus.edu.sg</mail></member>
 			<member><name>Dorothy Yap</name><mail>dotyyap@gmail.com</mail></member>
 			<member><name>Beverly Lin</name><mail>beverly.lin@gmail.com</mail></member>
-			<challenge id="2" />
+			<pages>2</pages>
 		</team>
-		<team id="C">
+		<team id="C" challenge="2">
 			<member><name>Gurpal Singh Kalra</name><mail>gurpalsinghkalra@gmail.com</mail></member>
 			<member><name>Bjorn Lee</name><mail>bjorn@appyzoo.com</mail></member>
 			<member><name>Harshal Desai</name><mail>hersheydesai@gmail.com</mail></member>
 			<member><name>Hari Haran</name><mail>hari@catena-technologies.com</mail></member>
 			<member><name>Bernise Ang</name><mail>bernise@syinc.org</mail></member>
-			<challenge id="2" />
+			<pages>1</pages>
 		</team>
-		<team id="D">
+		<team id="D" challenge="1">
 			<member><name>Jones Yay</name><mail>jones.tay@possibleworlwide.com</mail></member>
 			<member><name>Michelle Wong</name><mail>m@smallengineerings.com</mail></member>
 			<member><name>Raven Chai</name><mail>raven@uxconsulting.com.sg</mail></member>
-			<member><name>Irene Lim</name></member>
+			<member><name>Irene Lim</name><mail/></member>
 			<member><name>Amandeep Singh Sandhu</name><mail>sandhu.aman@gmail.com</mail></member>
-			<challenge id="1" />
+			<pages>1</pages>
 		</team>
-		<team id="E">
+		<team id="E" challenge="1">
 			<member><name>Jun Tian</name><mail>jt@expressinmusic.com</mail></member>
 			<member><name>Lim Fern Yit</name><mail>fernyit.lim@possibleworldwide.com</mail></member>
 			<member><name>Shaun Koh</name><mail>shaun@syirc.org</mail></member>
 			<member><name>Chong Li-Chuan</name><mail>chong_li_chuan@rp.sg</mail></member>
 			<member><name>Mohammed Pitolwala</name><mail>mohammedsp.me@gmail.com</mail></member>
-			<challenge id="1" />
+			<pages>1</pages>
 		</team>
 	</teams>
 </destraction>
