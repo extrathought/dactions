@@ -3,3 +3,4 @@ helloworld
 results.xml
 paster.*
 .idea
+*.pyc
