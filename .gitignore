@@ -4,3 +4,5 @@ results.xml
 paster.*
 .idea
 *.pyc
+
+dactionsengine/paster.log
