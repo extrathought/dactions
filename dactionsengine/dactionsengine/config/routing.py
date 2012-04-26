@@ -21,7 +21,8 @@ def make_map(config):
     # CUSTOM ROUTES HERE
 
     map.connect('/', controller='main', action='index')
-    map.connect('/{controller}/{action}')
-    map.connect('/{controller}/{action}/{id}')
+    map.connect('/{action}/*url', controller='main', action='results')
+    #map.connect('/results/{date}/{country}/{city}', controller='main', action='results')
+    #map.connect('/{controller}/{action}/{id}')
 
     return map

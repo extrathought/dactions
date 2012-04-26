@@ -4,14 +4,6 @@
   <!-- add some head tags here -->
 </%def>
 
-<ul>
-% for result in c.test:
-<li>
-    ${result.date}: ${result.teams} winner: ${result.winners}, pictures: ${result.pictures}
-</li>
-% endfor
-</ul>
-
 	<div class="contents_wrapper">
 		<div class="contents">
 			<h3>Manifesto</h3>
@@ -92,10 +84,15 @@
 
                 <ul>
                     % for result in c.results:
-                    <li>
-                        ${result['name']}:
-                        <a href="${result['path']}results.html" title="Results from ${result['name']}">Results</a>
-                    </li>
+                        <li>
+                            ${result.date}: <a href="${result.path}" title="Results from ${result.date}">Results</a>
+                            % if len(result.pictures) > 0:
+                                -
+                                % for pics in result.pictures:
+                                    <a href="${pics}" title="Pictures from ${result.date}">Pics</a>
+                                % endfor
+                            % endif
+                        </li>
                     % endfor
                 </ul>
 

@@ -7,7 +7,7 @@ class User:
     mail = None
     twitter = None
 
-    def __init__(self, name, mail, twitter):
+    def __init__(self, name, mail = "", twitter = ""):
         self.name = name
         self.mail = mail
         self.twitter = twitter

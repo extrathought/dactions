@@ -4,6 +4,12 @@
   <!-- add some head tags here -->
 </%def>
 
+<%def name="title()">Server Error ${c.code}</%def>
+<%def name="heading()"><h1>Error ${c.code}</h1></%def>
+
+<p>${c.message}</p>
+
+
 
 	<div class="contents_wrapper">
 		<div class="contents">
