@@ -26,6 +26,7 @@ class MainController(BaseController):
     def _list_results(self):
         """ parse the results folder and create a list of links """
         dirList=os.listdir(BASEPATH)
+        dirList.sort()
         results = []
         for name in dirList:
             if os.path.isdir(BASEPATH + "/" + name) and os.path.exists(BASEPATH + "/" + name + "/sg/singapore/results.xml"):
@@ -48,6 +49,7 @@ class MainController(BaseController):
     def _parse_results(self):
         """ parse the results.xml files and create a list of results objects """
         directoryListing=os.listdir(BASEPATH)
+        directoryListing.sort()
         results = []
         for eventDate in directoryListing:
             result = self._parse_result(eventDate, "sg", "singapore")
